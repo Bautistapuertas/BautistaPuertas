@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Bauti
 
-<!--
-**Bautistapuertas/BautistaPuertas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Ingeniería** apasionado por el desarrollo de software y la resolución de problemas técnicos. 🚀
 
-Here are some ideas to get you started:
+## 🎯 Sobre mí
+- 🔭 Actualmente trabajando en: [Mi Primer Web de Ingeniería](https://bautistapuertas.github.io/mi-primer-web-ingenieria-bauti/)
+- ⚙️ Intereses: Procesos en sistemas operativos, paradigmas de programación y estadística.
+- 🌱 Aprendiendo: Dominio avanzado de Git y GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y Herramientas
+- **Lenguajes/Web:** HTML5, CSS3.
+- **Entorno:** Linux, Visual Studio Code.
+- **Control de Versiones:** Git & GitHub (Nivel avanzado).
+
+## 📊 Mis Proyectos Destacados
+- [mi-primer-web-ingenieria-bauti](https://github.com/Bautistapuertas/mi-primer-web-ingenieria-bauti): Mi primer sitio web hosteado con GitHub Pages, donde apliqué flujos de trabajo profesionales y resolución de conflictos.
